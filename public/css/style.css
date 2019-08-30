@@ -1,0 +1,11 @@
+nav{
+    margin-bottom: 1em;
+    padding: 1em;
+    background-color: #111111;
+}
+
+a{
+    margin-right: 1em;
+    text-decoration: none;
+    color: white;
+}

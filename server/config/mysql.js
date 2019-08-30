@@ -7,7 +7,7 @@ module.exports = {
             user: 'root',
             password: '',
             port: '3306',
-            database: 'indiega_solutions'
+            database: 'img-upload'
         })
 }
 }

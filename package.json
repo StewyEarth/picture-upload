@@ -19,11 +19,13 @@
   },
   "homepage": "https://github.com/StewyEarth/picture-upload#readme",
   "dependencies": {
-    "express-fileupload": "^1.1.5",
     "body-parser": "^1.19.0",
     "ejs": "^2.6.2",
     "express": "^4.17.1",
+    "express-fileupload": "^1.1.5",
     "morgan": "^1.9.1",
-    "mysql2": "^1.6.5"
+    "mysql2": "^1.6.5",
+    "sharp": "^0.23.0",
+    "uuidv4": "^5.0.0"
   }
 }
